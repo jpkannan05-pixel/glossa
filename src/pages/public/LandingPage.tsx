@@ -54,7 +54,7 @@ export const LandingPage: React.FC = () => {
           </h1>
 
           <p className="text-lg sm:text-xl text-charcoal-700 max-w-3xl mx-auto mb-10 leading-relaxed">
-            An adaptive Sanskrit learning platform that helps you learn vocabulary, grammar, conversation, and the linguistic structure behind the language.
+            An adaptive AI Sanskrit learning platform — Learn vocabulary, master grammar, practice conversation, and explore computational linguistics.
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
